@@ -1,5 +1,5 @@
 # Proje1
-Savaş Oyunu ve Senaryolar
+War Game and Scenarios
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
